@@ -1,4 +1,4 @@
-require_relative 'odin-linked-list/lib/linked_list'
+require_relative 'linked_list'
 require 'pry-byebug'
 
 class Hashmap
